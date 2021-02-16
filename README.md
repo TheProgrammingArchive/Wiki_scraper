@@ -19,3 +19,5 @@
  -h -> usage
  
  eg: wikimod.py -c minecraft, will give the page content for minecraft
+
+Also you can use this for anything just give me credits or provide the link to my repo
